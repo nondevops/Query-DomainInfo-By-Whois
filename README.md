@@ -8,6 +8,11 @@ pip install -r requirements.txt -i https://pypi.tuna.tsinghua.edu.cn/simple
 # 运行
 python3 query-domaininfo-by-whois.py
 
+# 使用示例
+```
+请输入你要查询的域名:baidu.com
+```
+
 # 结果输出
 ```
 [+]子域名查询
