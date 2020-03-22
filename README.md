@@ -574,3 +574,14 @@ Registrars.
 
 查询耗时: 6.280539274215698
 ```
+
+# 与能查询whois的网站进行查询结果确认
+```
+whois 网站查询
+
+站长之家: http://whois.chinaz.com/
+全球WHOIS查询:https://www.whois365.com/cn/
+爱站:http://www.aizhan.com/
+阿里云:https://whois.aliyun.com/whois/domain/
+
+```
